@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "browser-solc-tron": "^1.0.5",
-    "es6-shim": "^0.35.3"
+    "es6-shim": "^0.35.6"
   },
   "devDependencies": {
     "nwb": "0.21.x"
