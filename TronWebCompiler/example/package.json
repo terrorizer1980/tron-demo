@@ -6,8 +6,8 @@
     "browser-solc-tron": "^1.0.41",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4",
-    "solc": "^0.4.24",
+    "react-scripts": "3.4.2",
+    "solc": "^0.5.11",
     "tronwebcompiler": "^1.0.0"
   },
   "scripts": {
